@@ -8,5 +8,5 @@ Main HTML
 Main JS
 
 
-Still need data logging
+Still adding data logging today
 
